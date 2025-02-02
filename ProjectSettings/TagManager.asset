@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Sword
+  - Enemy
+  - MobilePlatform
+  - Spikes
+  - FallZone
+  - EnemySword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Character
+  - Foreground
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1346909881
+    locked: 0
+  - name: Character
+    uniqueID: 1563330167
+    locked: 0
+  - name: Foreground
+    uniqueID: 2050360929
+    locked: 0
+  - name: Ground
+    uniqueID: 1374695267
+    locked: 0
+  m_RenderingLayers:
+  - Default
